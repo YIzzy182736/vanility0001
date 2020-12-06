@@ -5,4 +5,4 @@
 
 💬 You can contact me on Discord via **vanility#0001**
 
-![vanility's github stats](https://github-readme-stats.vercel.app/api?username=vanility0104&show_icons=true)
+![vanility's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vanility0104)
