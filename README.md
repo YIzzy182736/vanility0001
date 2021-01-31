@@ -1,7 +1,7 @@
 # Hi there 👋
 ### My name is Vanility. I mainly develop in Python, but I am learning HTML and CSS
 
-📁 Currently working on **Solar Selfbot**
+📁 Currently working on **Racetype**
 
 💬 You can contact me on Discord via **vanility#0001**
 
